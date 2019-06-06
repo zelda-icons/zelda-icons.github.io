@@ -1,9 +1,10 @@
 @font-face { font-family: 'Triforce'; src: url(Triforce.ttf); }
 
 :root {
-    --color-green: #47B43D;
-    --color-dark: #313131;
-    --color-light: #E9E9E9;
+    --color-green: rgb(71, 180, 61);
+    --color-dark-green: rgb(43, 116, 37);
+    --color-dark: rgb(50, 50, 50);
+    --color-light: rgb(233, 233, 233);
 }
 
 .triforce { font-family: 'Triforce' !important; }
@@ -31,4 +32,8 @@
 .btn-primary {
     background-color: var(--color-green) !important;
     color: var(--color-light) !important;
+    border: 0;
+}
+.btn-primary:hover {
+
 }
