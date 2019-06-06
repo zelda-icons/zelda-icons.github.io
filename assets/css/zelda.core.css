@@ -21,6 +21,13 @@
 .text-dark {
     color: var(--color-dark) !important;
 }
+.text-link { 
+    color: var(--color-green) !important;
+    transition: all 0.2s;
+}
+.text-link:hover, .text-link:active { 
+    color: var(--color-dark-green) !important; 
+}
 
 .bg-light {
     background-color: var(--color-light) !important;
