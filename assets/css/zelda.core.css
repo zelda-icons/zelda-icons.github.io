@@ -1,7 +1,34 @@
 @font-face { font-family: 'Triforce'; src: url(Triforce.ttf); }
+
 :root {
     --color-green: #47B43D;
     --color-dark: #313131;
+    --color-light: #E9E9E9;
 }
+
 .triforce { font-family: 'Triforce' !important; }
-.text-primary { color: var(--color-green) !important; }
+
+.text-primary { 
+    color: var(--color-green) !important; 
+}
+.text-light {
+    color: var(--color-light) !important;
+}
+.text-dark {
+    color: var(--color-dark) !important;
+}
+
+.bg-light {
+    background-color: var(--color-light) !important;
+}
+.bg-dark {
+    background-color: var(--color-dark) !important;   
+}
+.bg-primary { 
+    background-color: var(--color-green) !important; 
+}
+
+.btn-primary {
+    background-color: var(--color-green) !important;
+    color: var(--color-light) !important;
+}
