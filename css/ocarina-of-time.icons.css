@@ -1,0 +1,346 @@
+.zeoot {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1em 1em;
+}
+
+/* Ocarinas */
+.zeoot.ze-fairy-ocarina {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/fairy-ocarina.png);
+}
+.zeoot.ze-ocarina-of-time {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/ocarina-of-time.png);
+}
+
+/* General Items */
+.zeoot.ze-bomb {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/bomb.png);
+}
+.zeoot.ze-deku-stick {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/deku-stick.png);
+}
+.zeoot.ze-boomerang {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/boomerang.png);
+}
+.zeoot.ze-deku-nut {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/deku-nut.png);
+}
+.zeoot.ze-fairy-slingshot {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/fairy-slingshot.png);
+}
+.zeoot.ze-bombchu {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/bombchu.png);
+}
+.zeoot.ze-lens-of-truth {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/lens-of-truth.png);
+}
+.zeoot.ze-magic-bean {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/magic-bean.png);
+}
+.zeoot.ze-megaton-hammer {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/megaton-hammer.png);
+}
+
+/* Hook and Long Shot */
+.zeoot.ze-hookshot {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/hookshot.png);
+}
+.zeoot.ze-longshot {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/longshot.png);
+}
+
+/* Bow and Arrows */
+.zeoot.ze-fairy-bow {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/fairy-bow.png);
+}
+.zeoot.ze-fire-arrow {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/fire-arrow.png);
+}
+.zeoot.ze-ice-arrow {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/ice-arrow.png);
+}
+.zeoot.ze-light-arrow {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/light-arrow.png);
+}
+
+/* Bottles and Bottled Items */
+.zeoot.ze-bottle {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/bottle.png);
+}
+.zeoot.ze-red-potion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/red-potion.png);
+}
+.zeoot.ze-green-potion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/green-potion.png);
+}
+.zeoot.ze-blue-potion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/blue-potion.png);
+}
+.zeoot.ze-fairy {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/fairy.png);
+}
+.zeoot.ze-lon-lon-milk {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/lon-lon-milk.png);
+}
+.zeoot.ze-bug {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/bug.png);
+}
+.zeoot.ze-fish {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/fish.png);
+}
+.zeoot.ze-poe-soul {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/poe-soul.png);
+}
+.zeoot.ze-blue-fire {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/blue-fire.png);
+}
+.zeoot.ze-letter {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/letter.png);
+}
+
+/* Spell Stones */
+.zeoot.ze-dins-fire {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/dins-fire.png);
+}
+.zeoot.ze-farores-wind {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/farores-wind.png);
+}
+.zeoot.ze-nayrus-love {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/nayrus-love.png);
+}
+
+/* Swords */
+.zeoot.ze-kokiri-sword {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/kokiri-sword.png);
+}
+.zeoot.ze-master-sword {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/master-sword.png);
+}
+.zeoot.ze-giants-knife {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/giants-knife.png);
+}
+.zeoot.ze-broken-giants-knife {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/broken-giants-knife.png);
+}
+.zeoot.ze-biggoron-sword {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/biggoron-sword.png);
+}
+
+/* Shields */
+.zeoot.ze-deku-shield {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/deku-shield.png);
+}
+.zeoot.ze-hylian-shield {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/hylian-shield.png);
+}
+.zeoot.ze-mirror-shield {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/mirror-shield.png);
+}
+
+/* Boots */
+.zeoot.ze-kokiri-boots {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/kokiri-boots.png);
+}
+.zeoot.ze-iron-boots {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/iron-boots.png);
+}
+.zeoot.ze-hover-boots {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/hover-boots.png);
+}
+
+/* Tunics */
+.zeoot.ze-kokiri-tunic {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/kokiri-tunic.png);
+}
+.zeoot.ze-goron-tunic {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/goron-tunic.png);
+}
+.zeoot.ze-zora-tunic {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/zora-tunic.png);
+}
+
+/* Wallets */
+.zeoot.ze-adults-wallet {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/adults-wallet.png);
+}
+.zeoot.ze-giants-wallet {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/giants-wallet.png);
+}
+
+/* Gauntlets */
+.zeoot.ze-gorons-bracelet {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/gorons-bracelet.png);
+}
+.zeoot.ze-silver-gauntlets {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/silver-gauntlets.png);
+}
+.zeoot.ze-golden-gauntlets {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/golden-gauntlets.png);
+}
+
+/* Scales */
+.zeoot.ze-silver-scale {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/silver-scale.png);
+}
+.zeoot.ze-golden-scale {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/golden-scale.png);
+}
+
+/* Bomb Bag */
+.zeoot.ze-bomb-bag {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/bomb-bag.png);
+}
+.zeoot.ze-big-bomb-bag {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/big-bomb-bag.png);
+}
+.zeoot.ze-biggest-bomb-bag {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/biggest-bomb-bag.png);
+}
+
+/* Deku Seet Bags */
+.zeoot.ze-deku-seed-bullet-bag {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/deku-seed-bullet-bag.png);
+}
+.zeoot.ze-big-deku-seed-bullet-bag {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/big-deku-seed-bullet-bag.png);
+}
+.zeoot.ze-biggest-deku-seed-bullet-bag {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/biggest-deku-seed-bullet-bag.png);
+}
+
+/* Quivers */
+.zeoot.ze-quiver {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/quiver.png);
+}
+.zeoot.ze-big-quiver {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/big-quiver.png);
+}
+.zeoot.ze-biggest-quiver {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/biggest-quiver.png);
+}
+
+/* Masks */
+.zeoot.ze-keaton-mask {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/keaton-mask.png);
+}
+.zeoot.ze-skull-mask {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/skull-mask.png);
+}
+.zeoot.ze-spooky-mask {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/spooky-mask.png);
+}
+.zeoot.ze-bunny-hood {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/bunny-hood.png);
+}
+.zeoot.ze-zora-mask {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/zora-mask.png);
+}
+.zeoot.ze-goron-mask {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/goron-mask.png);
+}
+.zeoot.ze-gerudo-mask {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/gerudo-mask.png);
+}
+.zeoot.ze-mask-of-truth {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/mask-of-truth.png);
+}
+
+/* Sacred Stones */
+.zeoot.ze-kokiris-emerald {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/kokiris-emerald.png);
+}
+.zeoot.ze-gorons-ruby {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/gorons-ruby.png);
+}
+.zeoot.ze-zoras-sapphire {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/zoras-sapphire.png);
+}
+
+/* Quest Medallions */
+.zeoot.ze-light-medallion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/light-medallion.png);
+}
+.zeoot.ze-forest-medallion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/forest-medallion.png);
+}
+.zeoot.ze-fire-medallion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/fire-medallion.png);
+}
+.zeoot.ze-water-medallion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/water-medallion.png);
+}
+.zeoot.ze-spirit-medallion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/spirit-medallion.png);
+}
+.zeoot.ze-shadow-medallion {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/shadow-medallion.png);
+}
+
+/* Trading Items */
+.zeoot.ze-pocket-egg {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/pocket-egg.png);
+}
+.zeoot.ze-pocket-cucco {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/pocket-cucco.png);
+}
+.zeoot.ze-cojiro {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/cojiro.png);
+}
+.zeoot.ze-odd-mushroom {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/odd-mushroom.png);
+}
+.zeoot.ze-odd-poultice {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/odd-poultice.png);
+}
+.zeoot.ze-poachers-saw {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/poachers-saw.png);
+}
+.zeoot.ze-broken-goron-sword {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/broken-goron-sword.png);
+}
+.zeoot.ze-prescription {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/prescription.png);
+}
+.zeoot.ze-eyeball-frog {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/eyeball-frog.png);
+}
+.zeoot.ze-worlds-finest-eye-drops {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/worlds-finest-eye-drops.png);
+}
+.zeoot.ze-claim-check {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/claim-check.png);
+}
+
+/* Other Items */
+.zeoot.ze-piece-of-heart {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/piece-of-heart.png);
+}
+.zeoot.ze-heart-container {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/heart-container.png);
+}
+.zeoot.ze-gold-skultula-token {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/gold-skultula-token.png);
+}
+.zeoot.ze-stone-of-agony {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/stone-of-agony.png);
+}
+.zeoot.ze-shard-of-agony {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/shard-of-agony.png);
+}
+.zeoot.ze-gerudo-token {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/gerudo-token.png);
+}
+.zeoot.ze-zeldas-letter {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/zeldas-letter.png);
+}
+.zeoot.ze-weird-egg {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/weird-egg.png);
+}
+.zeoot.ze-cucco {
+    background-image: url(http://zelda-icons.github.io/emoji/oot/cucco.png);
+}

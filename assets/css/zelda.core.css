@@ -1,0 +1,7 @@
+@font-face { font-family: 'Triforce'; src: url(Triforce.ttf); }
+:root {
+    --color-green: #47B43D;
+    --color-dark: #313131;
+}
+.triforce { font-family: 'Triforce' !important; }
+.text-primary { color: var(--color-green) !important; }
