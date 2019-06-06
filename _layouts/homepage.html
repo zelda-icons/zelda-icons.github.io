@@ -85,8 +85,9 @@ function cdnCopy(elem) {
     $cdn.val(`https://zelda-icons.gihub.io/css/${elem}.core.css`).select();
     document.execCommand("copy");
     $cdn.remove();
+    $('#status').fadeIn(100);
     $('#status').html('Copied!');
-    $('#status').fadeOut('slow');
+    $('#status').fadeOut(3000);
 }
 </script>
 </html>
