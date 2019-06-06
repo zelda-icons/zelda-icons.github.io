@@ -33,7 +33,10 @@
     background-color: var(--color-green) !important;
     color: var(--color-light) !important;
     border: 0;
+    transition: all 0.5s;
 }
 .btn-primary:hover {
-
+    background-color: var(--color-dark-green) !important;
+    color: var(--color-light) !important;
+    border: 0;
 }
