@@ -38,6 +38,7 @@
     <br><br>
     <div id="contents" class="container">
         <h3 class="text-primary text-shadow">Demo, Contents and CDN!</h3>
+        <span id="status" class="text-success"></span>
         <table class="table table-dark">
             <thead>
                 <tr>
@@ -54,17 +55,19 @@
                     <td>98</td>
                     <td><code>Refer to Any Demo Below</code></td>
                     <td><i class="zioot zi-master-sword"></i></td>
-                    <td><a id="cdnAll" href="#" class="btn btn-primary btn-sm">Copy</a></td>
+                    <td><a onclick="cdnCopy('all')" href="#" class="btn btn-primary btn-sm">Copy</a></td>
                 </tr>
                 <tr>
                     <td>Ocarina of Time</td>
                     <td>98</td>
                     <td><code>&lt;i class="zioot zi-deku-stick"&gt;&lt;/i&gt;</code></td>
                     <td><i class="zioot zi-deku-stick"></i></td>
-                    <td><a id="cdnOcarina" href="#" class="btn btn-primary btn-sm">Copy</a></td>
+                    <td><a onclick="cdnCopy('oot')" href="#" class="btn btn-primary btn-sm">Copy</a></td>
                 </tr>
             </tbody>
         </table>
+        <input id="cdn-all" style="display: none" value="https://zelda-icons.github.io/css/all.core.css">
+        <input id="cdn-oot" style="display: none" value="https://zelda-icons.github.io/css/ocarina-of-time.core.css">
     </div>
     <br><br>
     <footer class="container">
@@ -75,3 +78,12 @@
         </span>
     </footer>
 </body>
+<script type="text/javascript">
+function cdnCopy(elem) {
+    $(`#cdn-${elem}`).val().select();
+    document.execCommand('copy');
+    $('#status').html('Copied!');
+    $('#status').fadeOut('slow');
+}
+</script>
+</html>
