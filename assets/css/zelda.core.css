@@ -9,6 +9,9 @@
 
 .triforce { font-family: 'Triforce' !important; }
 
+.box-shadow { box-shadow: 3px 3px 3px rgb(0, 0, 0) !important; }
+.text-shadow { text-shadow: 3px 3px 3px rgb(0, 0, 0) !important; }
+
 .text-primary { 
     color: var(--color-green) !important; 
 }
