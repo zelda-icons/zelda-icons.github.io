@@ -62,12 +62,10 @@
                     <td>98</td>
                     <td><code>&lt;i class="zioot zi-deku-stick"&gt;&lt;/i&gt;</code></td>
                     <td><i class="zioot zi-deku-stick"></i></td>
-                    <td><button onclick="cdnCopy('oot')" class="btn btn-primary btn-sm">Copy</button></td>
+                    <td><button onclick="cdnCopy('ocarina-of-time')" class="btn btn-primary btn-sm">Copy</button></td>
                 </tr>
             </tbody>
         </table>
-        <input id="cdn-all" style="display: none" value="https://zelda-icons.github.io/css/all.core.css">
-        <input id="cdn-oot" style="display: none" value="https://zelda-icons.github.io/css/ocarina-of-time.core.css">
     </div>
     <br><br>
     <footer class="container">
@@ -80,8 +78,11 @@
 </body>
 <script type="text/javascript">
 function cdnCopy(elem) {
-    $(`#cdn-${elem}`).val().select();
-    document.execCommand('copy');
+    var $cdn = $('<input>');
+    $('body').append($cdn);
+    $cdn.val(`https://zelda-icons.gihub.io/css/${elem}.core.css`).select();
+    document.execCommand("copy");
+    $temp.remove();
     $('#status').html('Copied!');
     $('#status').fadeOut('slow');
 }
