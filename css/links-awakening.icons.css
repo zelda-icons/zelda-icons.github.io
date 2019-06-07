@@ -1,0 +1,198 @@
+i.zila {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: auto 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+/* Equipment */
+i.zila.zi-sword {
+    background-image: url(https://zelda-icons.github.io/icons/la/sword.png);
+}
+i.zila.zi-level-2-sword {
+    background-image: url(https://zelda-icons.github.io/icons/la/level-2-sword.png);
+}
+i.zila.zi-shield {
+    background-image: url(https://zelda-icons.github.io/icons/la/shield.png);
+}
+i.zila.zi-mirror-shield {
+    background-image: url(https://zelda-icons.github.io/icons/la/mirror-shield.png);
+}
+i.zila.zi-rocs-feather {
+    background-image: url(https://zelda-icons.github.io/icons/la/rocs-feather.png);
+}
+i.zila.zi-pegasus-boots {
+    background-image: url(https://zelda-icons.github.io/icons/la/pegasus-boots.png);
+}
+i.zila.zi-power-bracelet-level-1 {
+    background-image: url(https://zelda-icons.github.io/icons/la/power-bracelet-level-1.png);
+}
+i.zila.zi-power-bracelet-level-2 {
+    background-image: url(https://zelda-icons.github.io/icons/la/power-bracelet-level-2.png);
+}
+i.zila.zi-bow {
+    background-image: url(https://zelda-icons.github.io/icons/la/bow.png);
+}
+i.zila.zi-hookshot {
+    background-image: url(https://zelda-icons.github.io/icons/la/hookshot.png);
+}
+i.zila.zi-magic-rod {
+    background-image: url(https://zelda-icons.github.io/icons/la/magic-rod.png);
+}
+i.zila.zi-boomerang {
+    background-image: url(https://zelda-icons.github.io/icons/la/boomerang.png);
+}
+i.zila.zi-ocarina {
+    background-image: url(https://zelda-icons.github.io/icons/la/ocarina.png);
+}
+i.zila.zi-shovel {
+    background-image: url(https://zelda-icons.github.io/icons/la/shovel.png);
+}
+i.zila.zi-magic-powder {
+    background-image: url(https://zelda-icons.github.io/icons/la/magic-powder.png);
+}
+i.zila.zi-bomb {
+    background-image: url(https://zelda-icons.github.io/icons/la/bomb.png);
+}
+
+/* Dungeon Items */
+i.zila.zi-dungeon-map {
+    background-image: url(https://zelda-icons.github.io/icons/la/dungeon-map.png);
+}
+i.zila.zi-compass {
+    background-image: url(https://zelda-icons.github.io/icons/la/compass.png);
+}
+i.zila.zi-small-key {
+    background-image: url(https://zelda-icons.github.io/icons/la/small-key.png);
+}
+i.zila.zi-nightmare-key {
+    background-image: url(https://zelda-icons.github.io/icons/la/nightmare-key.png);
+}
+i.zila.zi-stone-slab {
+    background-image: url(https://zelda-icons.github.io/icons/la/stone-slab.png);
+}
+i.zila.zi-stone-beak {
+    background-image: url(https://zelda-icons.github.io/icons/la/stone-beak.png);
+}
+
+/* Keys */
+i.zila.zi-tail-key {
+    background-image: url(https://zelda-icons.github.io/icons/la/tail-key.png);
+}
+i.zila.zi-slime-key {
+    background-image: url(https://zelda-icons.github.io/icons/la/slime-key.png);
+}
+i.zila.zi-angler-key {
+    background-image: url(https://zelda-icons.github.io/icons/la/angler-key.png);
+}
+i.zila.zi-face-key {
+    background-image: url(https://zelda-icons.github.io/icons/la/face-key.png);
+}
+i.zila.zi-bird-key {
+    background-image: url(https://zelda-icons.github.io/icons/la/bird-key.png);
+}
+
+/* Instruments */
+i.zila.zi-full-moon-cello {
+    background-image: url(https://zelda-icons.github.io/icons/la/full-moon-cello.png);
+}
+i.zila.zi-conch-horn {
+    background-image: url(https://zelda-icons.github.io/icons/la/conch-horn.png);
+}
+i.zila.zi-sea-lilys-bell {
+    background-image: url(https://zelda-icons.github.io/icons/la/sea-lilys-bell.png);
+}
+i.zila.zi-surf-harp {
+    background-image: url(https://zelda-icons.github.io/icons/la/surf-harp.png);
+}
+i.zila.zi-wind-marimba {
+    background-image: url(https://zelda-icons.github.io/icons/la/wind-marimba.png);
+}
+i.zila.zi-coral-triangle {
+    background-image: url(https://zelda-icons.github.io/icons/la/coral-triangle.png);
+}
+i.zila.zi-organ-of-evening-calm {
+    background-image: url(https://zelda-icons.github.io/icons/la/organ-of-evening-calm.png);
+}
+i.zila.zi-thunder-drum {
+    background-image: url(https://zelda-icons.github.io/icons/la/thunder-drum.png);
+}
+
+/* Other Items */
+i.zila.zi-flipper {
+    background-image: url(https://zelda-icons.github.io/icons/la/flipper.png);
+}
+i.zila.zi-secret-medicine {
+    background-image: url(https://zelda-icons.github.io/icons/la/secret-medicine.png);
+}
+i.zila.zi-magnifying-lens {
+    background-image: url(https://zelda-icons.github.io/icons/la/magnifying-lens.png);
+}
+i.zila.zi-secret-seashell {
+    background-image: url(https://zelda-icons.github.io/icons/la/secret-seashell.png);
+}
+i.zila.zi-sleepy-mushroom {
+    background-image: url(https://zelda-icons.github.io/icons/la/sleepy-mushroom.png);
+}
+i.zila.zi-guardian-acorn {
+    background-image: url(https://zelda-icons.github.io/icons/la/guardian-acorn.png);
+}
+i.zila.zi-piece-of-power {
+    background-image: url(https://zelda-icons.github.io/icons/la/piece-of-power.png);
+}
+i.zila.zi-golden-leaf {
+    background-image: url(https://zelda-icons.github.io/icons/la/golen-lear.png);
+}
+
+/* Trading */
+i.zila.zi-yoshi-doll {
+    background-image: url(https://zelda-icons.github.io/icons/la/yoshi-doll.png);
+}
+i.zila.zi-ribbon {
+    background-image: url(https://zelda-icons.github.io/icons/la/ribbon.png);
+}
+i.zila.zi-dog-food {
+    background-image: url(https://zelda-icons.github.io/icons/la/dog-food.png);
+}
+i.zila.zi-bananas {
+    background-image: url(https://zelda-icons.github.io/icons/la/bananas.png);
+}
+i.zila.zi-stick {
+    background-image: url(https://zelda-icons.github.io/icons/la/stick.png);
+}
+i.zila.zi-honeycomb {
+    background-image: url(https://zelda-icons.github.io/icons/la/honeycomb.png);
+}
+i.zila.zi-pineapple {
+    background-image: url(https://zelda-icons.github.io/icons/la/pineapple.png);
+}
+i.zila.zi-hibiscus {
+    background-image: url(https://zelda-icons.github.io/icons/la/hibiscus.png);
+}
+i.zila.zi-letter {
+    background-image: url(https://zelda-icons.github.io/icons/la/letter.png);
+}
+i.zila.zi-broom {
+    background-image: url(https://zelda-icons.github.io/icons/la/broom.png);
+}
+i.zila.zi-fishing-hook {
+    background-image: url(https://zelda-icons.github.io/icons/la/fishing-hook.png);
+}
+i.zila.zi-necklace {
+    background-image: url(https://zelda-icons.github.io/icons/la/necklace.png);
+}
+i.zila.zi-pink-bra {
+    background-image: url(https://zelda-icons.github.io/icons/la/pink-bra.png);
+}
+i.zila.zi-scale {
+    background-image: url(https://zelda-icons.github.io/icons/la/scale.png);
+}
