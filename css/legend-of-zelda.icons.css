@@ -1,0 +1,126 @@
+i.ziloz {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1em 1em;
+}
+
+/* Inventory */
+i.ziloz.zi-boomerang {
+    background-image: url(https://zelda-icons.github.io/icons/loz/boomerang.png);
+}
+i.ziloz.zi-magical-boomerang {
+    background-image: url(https://zelda-icons.github.io/icons/loz/magical-boomerang.png);
+}
+i.ziloz.zi-bomb {
+    background-image: url(https://zelda-icons.github.io/icons/loz/bomb.png);
+}
+i.ziloz.zi-bow {
+    background-image: url(https://zelda-icons.github.io/icons/loz/bow.png);
+}
+i.ziloz.zi-arrow {
+    background-image: url(https://zelda-icons.github.io/icons/loz/arrow.png);
+}
+i.ziloz.zi-silver-arrow {
+    background-image: url(https://zelda-icons.github.io/icons/loz/silver-arrow.png);
+}
+i.ziloz.zi-blue-candle {
+    background-image: url(https://zelda-icons.github.io/icons/loz/blue-candle.png);
+}
+i.ziloz.zi-red-candle {
+    background-image: url(https://zelda-icons.github.io/icons/loz/red-candle.png);
+}
+i.ziloz.zi-recorder {
+    background-image: url(https://zelda-icons.github.io/icons/loz/recorder.png);
+}
+i.ziloz.zi-food {
+    background-image: url(https://zelda-icons.github.io/icons/loz/food.png);
+}
+i.ziloz.zi-letter {
+    background-image: url(https://zelda-icons.github.io/icons/loz/letter.png);
+}
+i.ziloz.zi-life-potion {
+    background-image: url(https://zelda-icons.github.io/icons/loz/life-potion.png);
+}
+i.ziloz.zi-2nd-potion {
+    background-image: url(https://zelda-icons.github.io/icons/loz/2nd-potion.png);
+}
+i.ziloz.zi-magical-rod {
+    background-image: url(https://zelda-icons.github.io/icons/loz/magical-rod.png);
+}
+i.ziloz.zi-book-of-magic {
+    background-image: url(https://zelda-icons.github.io/icons/loz/book-of-magic.png);
+}
+
+/* Equipment */
+i.ziloz.zi-sword {
+    background-image: url(https://zelda-icons.github.io/icons/loz/sword.png);
+}
+i.ziloz.zi-white-sword {
+    background-image: url(https://zelda-icons.github.io/icons/loz/white-sword.png);
+}
+i.ziloz.zi-magical-sword {
+    background-image: url(https://zelda-icons.github.io/icons/loz/magical-sword.png);
+}
+i.ziloz.zi-wooden-shield {
+    background-image: url(https://zelda-icons.github.io/icons/loz/wooden-shield.png);
+}
+i.ziloz.zi-magical-shield {
+    background-image: url(https://zelda-icons.github.io/icons/loz/magical-shield.png);
+}
+i.ziloz.zi-blue-ring {
+    background-image: url(https://zelda-icons.github.io/icons/loz/blue-ring.png);
+}
+i.ziloz.zi-red-ring {
+    background-image: url(https://zelda-icons.github.io/icons/loz/red-ring.png);
+}
+i.ziloz.zi-power-bracelet {
+    background-image: url(https://zelda-icons.github.io/icons/loz/power-bracelet.png);
+}
+
+/* Navigation Items */
+i.ziloz.zi-map {
+    background-image: url(https://zelda-icons.github.io/icons/loz/map.png);
+}
+i.ziloz.zi-compass {
+    background-image: url(https://zelda-icons.github.io/icons/loz/compass.png);
+}
+i.ziloz.zi-key {
+    background-image: url(https://zelda-icons.github.io/icons/loz/key.png);
+}
+i.ziloz.zi-magical-key {
+    background-image: url(https://zelda-icons.github.io/icons/loz/magical-key.png);
+}
+i.ziloz.zi-raft {
+    background-image: url(https://zelda-icons.github.io/icons/loz/raft.png);
+}
+i.ziloz.zi-stepladder {
+    background-image: url(https://zelda-icons.github.io/icons/loz/stepladder.png);
+}
+
+/* Other Items */
+i.ziloz.zi-triforce {
+    background-image: url(https://zelda-icons.github.io/icons/loz/triforce.png);
+}
+i.ziloz.zi-heart-container {
+    background-image: url(https://zelda-icons.github.io/icons/loz/heart-container.png);
+}
+i.ziloz.zi-heart {
+    background-image: url(https://zelda-icons.github.io/icons/loz/heart.png);
+}
+i.ziloz.zi-fairy {
+    background-image: url(https://zelda-icons.github.io/icons/loz/fairy.png);
+}
+i.ziloz.zi-rupee {
+    background-image: url(https://zelda-icons.github.io/icons/loz/rupee.png);
+}
+i.ziloz.zi-5-rupees {
+    background-image: url(https://zelda-icons.github.io/icons/loz/5-rupees.png);
+}
+i.ziloz.zi-clock {
+    background-image: url(https://zelda-icons.github.io/icons/loz/clock.png);
+}
