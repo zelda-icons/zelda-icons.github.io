@@ -1,0 +1,290 @@
+i.zimm {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 1em 1em;
+}
+
+/* General Items */
+i.zimm.zi-deku-stick {
+    background-image: url(https://zelda-icons.github.io/icons/mm/deku-stick.png);
+}
+i.zimm.zi-deku-nut {
+    background-image: url(https://zelda-icons.github.io/icons/mm/deku-nut.png);
+}
+i.zimm.zi-bomb {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bomb.png);
+}
+i.zimm.zi-bombchu {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bombchu.png);
+}
+i.zimm.zi-powder-keg {
+    background-image: url(https://zelda-icons.github.io/icons/mm/powder-keg.png);
+}
+i.zimm.zi-hookshot {
+    background-image: url(https://zelda-icons.github.io/icons/mm/hookshot.png);
+}
+i.zimm.zi-lens-of-truth {
+    background-image: url(https://zelda-icons.github.io/icons/mm/lens-of-truth.png);
+}
+i.zimm.zi-pictograph-box {
+    background-image: url(https://zelda-icons.github.io/icons/mm/pictograph-box.png);
+}
+i.zimm.zi-magic-bean {
+    background-image: url(https://zelda-icons.github.io/icons/mm/magic-bean.png);
+}
+
+/* Bow and Arrows */
+i.zimm.zi-heros-bow {
+    background-image: url(https://zelda-icons.github.io/icons/mm/heros-bow.png);
+}
+i.zimm.zi-fire-arrow {
+    background-image: url(https://zelda-icons.github.io/icons/mm/fire-arrow.png);
+}
+i.zimm.zi-ice-arrow {
+    background-image: url(https://zelda-icons.github.io/icons/mm/ice-arrow.png);
+}
+i.zimm.zi-light-arrow {
+    background-image: url(https://zelda-icons.github.io/icons/mm/light-arrow.png);
+}
+
+/* Bottles */
+i.zimm.zi-bottle {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bottle.png);
+}
+i.zimm.zi-red-potion {
+    background-image: url(https://zelda-icons.github.io/icons/mm/red-potion.png);
+}
+i.zimm.zi-green-potion {
+    background-image: url(https://zelda-icons.github.io/icons/mm/green-potion.png);
+}
+i.zimm.zi-blue-potion {
+    background-image: url(https://zelda-icons.github.io/icons/mm/blue-potion.png);
+}
+i.zimm.zi-fairy {
+    background-image: url(https://zelda-icons.github.io/icons/mm/fairy.png);
+}
+i.zimm.zi-bug {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bug.png);
+}
+i.zimm.zi-fish {
+    background-image: url(https://zelda-icons.github.io/icons/mm/fish.png);
+}
+i.zimm.zi-milk {
+    background-image: url(https://zelda-icons.github.io/icons/mm/milk.png);
+}
+i.zimm.zi-chateau-romani {
+    background-image: url(https://zelda-icons.github.io/icons/mm/chateau-romani.png);
+}
+i.zimm.zi-mystery-milk {
+    background-image: url(https://zelda-icons.github.io/icons/mm/mystery-milk.png);
+}
+i.zimm.zi-deku-princess {
+    background-image: url(https://zelda-icons.github.io/icons/mm/deku-princess.png);
+}
+i.zimm.zi-gold-dust {
+    background-image: url(https://zelda-icons.github.io/icons/mm/deku-princess.png);
+}
+i.zimm.zi-seahorse {
+    background-image: url(https://zelda-icons.github.io/icons/mm/seahorse.png);
+}
+i.zimm.zi-poe-soul {
+    background-image: url(https://zelda-icons.github.io/icons/mm/poe-soul.png);
+}
+i.zimm.zi-big-poe-soul {
+    background-image: url(https://zelda-icons.github.io/icons/mm/big-poe-soul.png);
+}
+i.zimm.zi-magic-mushroom {
+    background-image: url(https://zelda-icons.github.io/icons/mm/magic-mushroom.png);
+}
+i.zimm.zi-spring-water {
+    background-image: url(https://zelda-icons.github.io/icons/mm/spring-water.png);
+}
+i.zimm.zi-hot-spring-water {
+    background-image: url(https://zelda-icons.github.io/icons/mm/hot-spring-water.png);
+}
+i.zimm.zi-zora-egg {
+    background-image: url(https://zelda-icons.github.io/icons/mm/zora-egg.png);
+}
+
+/* Swords */
+i.zimm.zi-kokiri-sword {
+    background-image: url(https://zelda-icons.github.io/icons/mm/kokiri-sword.png);
+}
+i.zimm.zi-razor-sword {
+    background-image: url(https://zelda-icons.github.io/icons/mm/razor-sword.png);
+}
+i.zimm.zi-gilded-sword {
+    background-image: url(https://zelda-icons.github.io/icons/mm/gilded-sword.png);
+}
+i.zimm.zi-great-fairys-sword {
+    background-image: url(https://zelda-icons.github.io/icons/mm/great-fairys-sword.png);
+}
+
+/* Shields */
+i.zimm.zi-heros-shield {
+    background-image: url(https://zelda-icons.github.io/icons/mm/heros-shield.png);
+}
+i.zimm.zi-mirror-shield {
+    background-image: url(https://zelda-icons.github.io/icons/mm/mirror-shield.png);
+}
+
+/* Wallets */
+i.zimm.zi-adults-wallet {
+    background-image: url(https://zelda-icons.github.io/icons/mm/adults-wallet.png);
+}
+i.zimm.zi-giants-wallet {
+    background-image: url(https://zelda-icons.github.io/icons/mm/giants-wallet.png);
+}
+
+/* Bomb Bag */
+i.zimm.zi-bomb-bag {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bomb-bag.png);
+}
+i.zimm.zi-big-bomb-bag {
+    background-image: url(https://zelda-icons.github.io/icons/mm/big-bomb-bag.png);
+}
+i.zimm.zi-biggest-bomb-bag {
+    background-image: url(https://zelda-icons.github.io/icons/mm/biggest-bomb-bag.png);
+}
+
+/* Quivers */
+i.zimm.zi-quiver {
+    background-image: url(https://zelda-icons.github.io/icons/mm/quiver.png);
+}
+i.zimm.zi-big-quiver {
+    background-image: url(https://zelda-icons.github.io/icons/mm/big-quiver.png);
+}
+i.zimm.zi-biggest-quiver {
+    background-image: url(https://zelda-icons.github.io/icons/mm/biggest-quiver.png);
+}
+
+/* Quest Items */
+i.zimm.zi-bombers-notebook {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bombers-notebook.png);
+}
+i.zimm.zi-room-key {
+    background-image: url(https://zelda-icons.github.io/icons/mm/room-key.png);
+}
+i.zimm.zi-letter-to-kafei {
+    background-image: url(https://zelda-icons.github.io/icons/mm/letter-to-kafei.png);
+}
+i.zimm.zi-pendant-of-memories {
+    background-image: url(https://zelda-icons.github.io/icons/mm/pendant-of-memories.png);
+}
+i.zimm.zi-pendant-of-memories {
+    background-image: url(https://zelda-icons.github.io/icons/mm/pendant-of-memories.png);
+}
+i.zimm.zi-special-delivery-to-mama {
+    background-image: url(https://zelda-icons.github.io/icons/mm/special-delivery-to-mama.png);
+}
+i.zimm.zi-moons-tear {
+    background-image: url(https://zelda-icons.github.io/icons/mm/moons-tear.png);
+}
+i.zimm.zi-fishing-hole-pass {
+    background-image: url(https://zelda-icons.github.io/icons/mm/fishing-hole-pass.png);
+}
+
+/* Title Deeds */
+i.zimm.zi-town-title-deed {
+    background-image: url(https://zelda-icons.github.io/icons/mm/town-title-deed.png);
+}
+i.zimm.zi-swamp-title-deed {
+    background-image: url(https://zelda-icons.github.io/icons/mm/swamp-title-deed.png);
+}
+i.zimm.zi-mountain-title-deed {
+    background-image: url(https://zelda-icons.github.io/icons/mm/mountain-title-deed.png);
+}
+i.zimm.zi-ocean-title-deed {
+    background-image: url(https://zelda-icons.github.io/icons/mm/ocean-title-deed.png);
+}
+
+/* Masks */
+i.zimm.zi-postmans-hat {
+    background-image: url(https://zelda-icons.github.io/icons/mm/postmans-hat.png);
+}
+i.zimm.zi-all-night-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/all-night-mask.png);
+}
+i.zimm.zi-blast-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/blast-mask.png);
+}
+i.zimm.zi-stone-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/stone-mask.png);
+}
+i.zimm.zi-keaton-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/keaton-mask.png);
+}
+i.zimm.zi-bremen-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bremen-mask.png);
+}
+i.zimm.zi-bunny-hood {
+    background-image: url(https://zelda-icons.github.io/icons/mm/bunny-hood.png);
+}
+i.zimm.zi-don-geros-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/don-geros-mask.png);
+}
+i.zimm.zi-mask-of-scents {
+    background-image: url(https://zelda-icons.github.io/icons/mm/mask-of-scents.png);
+}
+i.zimm.zi-romanis-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/romanis-mask.png);
+}
+i.zimm.zi-troupe-leaders-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/troupe-leaders-mask.png);
+}
+i.zimm.zi-kafeis-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/kafeis-mask.png);
+}
+i.zimm.zi-couples-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/couples-mask.png);
+}
+i.zimm.zi-mask-of-truth {
+    background-image: url(https://zelda-icons.github.io/icons/mm/mask-of-truth.png);
+}
+i.zimm.zi-kamaros-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/kamaros-mask.png);
+}
+i.zimm.zi-gibdo-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/gibdo-mask.png);
+}
+i.zimm.zi-garos-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/garos-mask.png);
+}
+i.zimm.zi-captains-hat {
+    background-image: url(https://zelda-icons.github.io/icons/mm/captains-hat.png);
+}
+i.zimm.zi-giants-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/giants-mask.png);
+}
+i.zimm.zi-deku-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/deku-mask.png);
+}
+i.zimm.zi-goron-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/goron-mask.png);
+}
+i.zimm.zi-zora-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/zora-mask.png);
+}
+i.zimm.zi-fierce-deitys-mask {
+    background-image: url(https://zelda-icons.github.io/icons/mm/fierce-deitys-mask.png);
+}
+
+
+/* Remains */
+i.zimm.zi-odolwas-remains {
+    background-image: url(https://zelda-icons.github.io/icons/mm/odolwas-remains.png);
+}
+i.zimm.zi-gohts-remains {
+    background-image: url(https://zelda-icons.github.io/icons/mm/gohts-remains.png);
+}
+i.zimm.zi-gyorgs-remains {
+    background-image: url(https://zelda-icons.github.io/icons/mm/gyorgs-remains.png);
+}
+i.zimm.zi-twinmolds-remains {
+    background-image: url(https://zelda-icons.github.io/icons/mm/twinmolds-remains.png);
+}
