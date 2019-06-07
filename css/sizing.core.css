@@ -11,6 +11,9 @@
     margin: 0 0.1em 0 0.2em !important;
     vertical-align: -0.2em !important;
     background-size: auto 2em !important;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
 }
 .zi-3x {
     height: 3em !important;
@@ -18,6 +21,9 @@
     margin: 0 0.15em 0 0.3em !important;
     vertical-align: -0.3em !important;
     background-size: auto 3em !important;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
 }
 .zi-4x {
     height: 4em !important;
@@ -25,6 +31,9 @@
     margin: 0 0.2em 0 0.4em !important;
     vertical-align: -0.4em !important;
     background-size: auto 4em !important;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
 }
 .zi-5x {
     height: 5em !important;
@@ -32,4 +41,7 @@
     margin: 0 0.25em 0 0.5em !important;
     vertical-align: -0.5em !important;
     background-size: auto 5em !important;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
 }
