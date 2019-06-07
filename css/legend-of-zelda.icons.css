@@ -7,6 +7,8 @@ i.ziloz {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: auto 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /* Inventory */
