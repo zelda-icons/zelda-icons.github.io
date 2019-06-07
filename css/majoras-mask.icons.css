@@ -6,9 +6,12 @@ i.zimm {
     vertical-align: -0.1em;
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 1em 1em;
+    background-size: auto 1em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
 }
 
 /* General Items */
