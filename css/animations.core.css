@@ -10,18 +10,29 @@
     from { transform:rotate(0deg); }
     to { transform:rotate(360deg); }
 }
+@keyframes blink {
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink {
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink {
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+}
 
 .zi-spin {
-    animation-name: spin;
-    animation-duration: 4000ms;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    -moz-animation-name: spin;
-    -moz-animation-duration: 4000ms;
-    -moz-animation-iteration-count: infinite;
-    -moz-animation-timing-function: linear;
-    -webkit-animation-name: spin;
-    -webkit-animation-duration: 4000ms;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-timing-function: linear;
+    animation: spin 3000ms infinite linear;
+    -moz-animation: spin 3000ms infinite linear;
+    -webkit-animation: spin 3000ms infinite linear;
+}
+.zi-blink {
+    animation: blink 2000ms infinite linear;
+    -moz-animation: blink 2000ms infinite linear;
+    -webkit-animation: blink 2000ms infinite linear;
 }
